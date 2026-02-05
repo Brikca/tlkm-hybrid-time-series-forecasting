@@ -20,7 +20,7 @@ The project was developed as part of an **academic assignment** and is also inte
 
 ## Data Description
 
-## 📊 Data Description
+## Data Description
 * **Data Type**: Secondary financial time series data  
 * **Asset**: TLKM (PT Telekomunikasi Indonesia Tbk)  
 * **Frequency**: Daily stock prices  
