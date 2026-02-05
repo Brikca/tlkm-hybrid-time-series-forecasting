@@ -84,7 +84,7 @@ Universitas Gadjah Mada
 
 ## Related Links
 
-* Google Colab Notebook: [https://colab.research.google.com/drive/1aJhgdqU-0MBHnd85KAtlHOiRDJv-oDHu](https://colab.research.google.com/drive/1KG6jIFFA6BbcTJjgylb7L1ltf5VI-StF?usp=sharing)
+* Google Colab Notebook: [https://colab.research.google.com/drive/1KG6jIFFA6BbcTJjgylb7L1ltf5VI-StF?usp=sharing](https://colab.research.google.com/drive/1KG6jIFFA6BbcTJjgylb7L1ltf5VI-StF?usp=sharing)
 * GitHub Profile: [https://github.com/Brikca](https://github.com/Brikca)
 
 ---
